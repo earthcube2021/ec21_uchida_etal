@@ -1,0 +1,10 @@
+{
+    "title": "Diagnosing the Eliassen-Palm flux from a quasi-geostrophic double gyre ensemble",
+    "creators": [
+           {"name": "Takaya Uchida", "affiliation": "Université Grenoble Alpes, CNRS, IRD, Grenoble-INP, Institut des Géosciences de l’Environnement, France",   "orcid": "0000-0002-8654-6009"},
+    {"name": "Bruno Deremble", "affiliation": "Université Grenoble Alpes, CNRS, IRD, Grenoble-INP, Institut des Géosciences de l’Environnement, France",   "orcid": "0000-0002-5875-5014"},
+    {"name": "William K. Dewar", "affiliation": "Université Grenoble Alpes, CNRS, IRD, Grenoble-INP, Institut des Géosciences de l’Environnement, France; Department of Earth, Ocean and Atmospheric Science, Florida State University, USA",  "orcid": "0000-0002-5803-5535"},
+    {"name": "Thierry Penduff", "affiliation": "Université Grenoble Alpes, CNRS, IRD, Grenoble-INP, Institut des Géosciences de l’Environnement, France",   "orcid": "0000-0002-0407-8564"}  
+    ],
+    "keywords": ["Quasi-geostrophy", "Eliassen-Palm flux", "Ensemble modelling"]
+}
