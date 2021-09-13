@@ -1,5 +1,8 @@
 QG Eliassen-Palm flux
 =====================
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.5496375.svg
+   :target: https://doi.org/10.5281/zenodo.5496375
+
 |Binder|
 
 In this repository, we provide an example notebook to calculate the Eliassen-Palm (E-P) flux divergence within the quasi-geostrophic (QG) framework.
